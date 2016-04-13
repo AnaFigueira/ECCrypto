@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ECCrypto", "ECCrypto", "{7FC55101-986D-464D-AC28-8165EC215CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECCryptoLib", "ECCryptoLib\ECCryptoLib.csproj", "{0FE7512D-C22F-4D49-848B-36496228D1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Release|ARM.ActiveCfg = Release|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Release|x64.ActiveCfg = Release|Any CPU
+		{0FE7512D-C22F-4D49-848B-36496228D1CA}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FE7512D-C22F-4D49-848B-36496228D1CA} = {7FC55101-986D-464D-AC28-8165EC215CAA}
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = c06dcbd3-0d1b-484d-bdcb-5a0f916a1f7f
+	EndGlobalSection
+EndGlobal

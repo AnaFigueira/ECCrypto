@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ECCryptoLib.AES" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.Base64" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base64.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.EncryptionHelper" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EncryptionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.HashFunctions" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAEAAAIAAAAAAAAAEIAAAAAABAA=</HashCode>
+      <FileName>HashFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.BigIntegerExtensions" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BigIntegerExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.PasswordGenerator.PasswordGeneratorSettings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAQKACEACIAAAAAIIgAAAAAAACAAIAQAAAAA=</HashCode>
+      <FileName>PasswordGenerator\PasswordGeneratorSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ECCryptoLib.PasswordGenerator.PasswordGenerator" Collapsed="true">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAgQAAAAAEAACAAAAAAgAAAAIAAAAA=</HashCode>
+      <FileName>PasswordGenerator\PasswordGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECurves">
+    <Position X="13" Y="1.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ECCryptoLib.ECC.ECurves.P192r1Curve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ECC\Curves.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ECCryptoLib.ECC.ECurves.P224r1Curve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ECC\Curves.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ECCryptoLib.ECC.ECurves.P256r1Curve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ECC\Curves.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ECCryptoLib.ECC.ECurves.P384r1Curve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ECC\Curves.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="ECCryptoLib.ECC.ECurves.P521r1Curve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ECC\Curves.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ECC\Curves.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECAsymmetricKeyPair">
+    <Position X="8.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAIBAAQYAAAAAAAAAAAAQAAAAAAAAAgAAABAAAAAE=</HashCode>
+      <FileName>ECC\ECAsymmetricKeyPair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECDH" Collapsed="true">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ECC\ECDH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECDSA" Collapsed="true">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ECC\ECDSA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECIES" Collapsed="true">
+    <Position X="8.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ECC\ECIES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECPoint">
+    <Position X="10.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAIRAQAAAAAwAAAAAAAAIAAAIAAwACAAAAAbiE=</HashCode>
+      <FileName>ECC\ECPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ECCryptoLib.ECC.ECurve">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAJAAAAABQAAAgAAAIAAAAAAIAKBgUQAACADAAiQ=</HashCode>
+      <FileName>ECC\ECurve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ECCryptoLib.PasswordGenerator.PasswordStrength" Collapsed="true">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAIAAIAE=</HashCode>
+      <FileName>PasswordGenerator\PasswordGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ECCryptoLib.ECC.Curves" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAgAAAAAAABAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ECC\ECurve.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

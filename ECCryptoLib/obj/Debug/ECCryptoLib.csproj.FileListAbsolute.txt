@@ -1,0 +1,85 @@
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.dll
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pdb
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pri
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.dll
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.pdb
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ana\Documents\Visual Studio 2013\Projects\ECCrypto\ECCryptoLib\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.csprojResolveAssemblyReference.cache
+E:\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.dll
+E:\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.pdb
+E:\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.dll
+E:\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pdb
+E:\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pri
+E:\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml
+E:\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml.intermediate
+E:\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles
+E:\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles.intermediate
+E:\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles
+E:\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles.intermediate
+E:\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles
+E:\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles.intermediate
+E:\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt
+E:\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt.intermediate
+E:\ECCrypto\ECCryptoLib\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.csprojResolveAssemblyReference.cache
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.dll
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.pdb
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.dll
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pdb
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pri
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml.intermediate
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles.intermediate
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles.intermediate
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles.intermediate
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt.intermediate
+D:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.dll
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pdb
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\ECCryptoLib.pri
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.dll
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\ECCryptoLib.pdb
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\priconfig.xml.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\layout.resfiles.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\resources.resfiles.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\pri.resfiles.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\qualifiers.txt.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\bin\Debug\ECCryptoLib.dll
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\bin\Debug\ECCryptoLib.pdb
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\bin\Debug\ECCryptoLib.pri
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\ECCryptoLib.csprojResolveAssemblyReference.cache
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\ECCryptoLib.dll
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\ECCryptoLib.pdb
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\priconfig.xml
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\priconfig.xml.intermediate
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\layout.resfiles
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\layout.resfiles.intermediate
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\resources.resfiles
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\resources.resfiles.intermediate
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\pri.resfiles
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\pri.resfiles.intermediate
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\qualifiers.txt
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\qualifiers.txt.intermediate
+C:\Users\anafi\Documents\GitHub\ECCryptoLib\ECCryptoLib\obj\Debug\MultipleQualifiersPerDimensionFound.txt

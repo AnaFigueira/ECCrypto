@@ -1,0 +1,16 @@
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Release\ECCryptoLib.dll
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Release\ECCryptoLib.pdb
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\bin\Release\ECCryptoLib.pri
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\ECCryptoLib.dll
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\ECCryptoLib.pdb
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\priconfig.xml
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\priconfig.xml.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\layout.resfiles
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\layout.resfiles.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\resources.resfiles
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\resources.resfiles.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\pri.resfiles
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\pri.resfiles.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\qualifiers.txt
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\qualifiers.txt.intermediate
+G:\Code\Mestrado\Code\ECCrypto Universal 8.1\ECCrypto\ECCryptoLib\obj\Release\MultipleQualifiersPerDimensionFound.txt
